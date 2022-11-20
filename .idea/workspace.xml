@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a6082c1-c03d-4084-8e12-005924048b4a" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/hw/hw4/hw4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/hw4/thyroid_disease.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/09_HSE_SE_GBM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/sem10_anomaly_detection_and_clustering_main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/winequality-white.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="default" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2GBGCyFpJ72c6M8N4c8MfpgvXge" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw/hw3/answers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw/hw3/answers" />
+      <recent name="$PROJECT_DIR$/hw/hw2/answers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw/hw2/answers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a6082c1-c03d-4084-8e12-005924048b4a" name="Changes" comment="" />
+      <created>1665854442093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665854442093</updated>
+      <workItem from="1665854447363" duration="304000" />
+      <workItem from="1665859109704" duration="77000" />
+      <workItem from="1665951500009" duration="107000" />
+      <workItem from="1667750820052" duration="328000" />
+      <workItem from="1667751152638" duration="690000" />
+      <workItem from="1667769289338" duration="137000" />
+      <workItem from="1667840331973" duration="6000" />
+      <workItem from="1668971031119" duration="101000" />
+      <workItem from="1668971135312" duration="1231000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed bugs">
+      <created>1665854690947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665854690947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="inited hw2">
+      <created>1665859174271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665859174271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="uploaded final version">
+      <created>1665951595265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665951595265</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added hw3">
+      <created>1667769332460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667769332460</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed bugs" />
+    <MESSAGE value="inited hw2" />
+    <MESSAGE value="uploaded final version" />
+    <MESSAGE value="added hw3" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+</project>
